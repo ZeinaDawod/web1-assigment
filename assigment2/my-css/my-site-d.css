@@ -6,16 +6,35 @@ border-style: dashed;
 border: 50%;
 
 }
-.one-p{
+h3{
     background-color: rgb(187, 248, 198);
     color: black;
     height: 30px;
-    font-size: 20px;
+    text-align: center;
 }
 body{
     background-image: url(./pngtree-green-background-floating-leaves-tree-picture-image_950991.jpg);
 }
-.two-p{
+.one-p{
     font-size: 40px;
     text-align: center;
+}
+.two-s{
+    width: 50%;
+    margin: 20px auto;
+}
+.three-s{
+    width: 70%;
+    margin: 0 35%;
+
+}
+.two-p{
+    font-size: 20px;
+    text-align: center;
+}
+.four-s{
+    color: rgb(1, 60, 18);
+    width: 80%;
+    margin: 0 45%;
+
 }
