@@ -6,6 +6,16 @@ border-style: dashed;
 border: 50%;
 
 }
+nav{
+    list-style: none;
+    text-align: center;
+    margin-top: 10px;
+
+}
+.one-l{
+    display: inline-block;
+    padding: 0 30px;
+}
 h3{
     background-color: rgb(187, 248, 198);
     color: black;
