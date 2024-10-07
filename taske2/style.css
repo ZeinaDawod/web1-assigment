@@ -1,0 +1,24 @@
+header{
+    position: fixed top ;
+    background-color: #F0F0F0;
+    padding: 10px;
+}
+article{
+    Width: 60%;
+Margin: 20px auto;
+Background-color: #E0E0E0;
+Padding: 15px;
+}
+aside{
+    Width: 30%;
+Margin: 20px auto;
+Background-color: #D0D0D0;
+Padding: 15px;
+position:absolute  ;
+}
+footer{
+    Background-color: #C0C0C0;
+Padding: 10px;
+position: absolute boo;
+
+}
