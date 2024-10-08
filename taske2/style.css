@@ -1,24 +1,62 @@
-header{
-    position: fixed top ;
+body{
+    min-height: 5000px;
+
+}
+header {
+    top :0;
     background-color: #F0F0F0;
     padding: 10px;
+    position: fixed;
 }
-article{
-    Width: 60%;
+article {
+Width: 60%;
 Margin: 20px auto;
 Background-color: #E0E0E0;
 Padding: 15px;
 }
-aside{
-    Width: 30%;
+main {
+    position: relative;
+
+}
+aside {
+Width: 30%;
 Margin: 20px auto;
 Background-color: #D0D0D0;
 Padding: 15px;
-position:absolute  ;
-}
-footer{
-    Background-color: #C0C0C0;
-Padding: 10px;
-position: absolute boo;
+position:absolute ;
+right: 0;
 
+}
+footer {
+Background-color: #C0C0C0;
+Padding: 10px;
+position: absolute ;
+bottom: 0;
+
+}
+
+.navbar ul {
+    list-style-type: none;
+    background-color: rgb(12, 9, 9);
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    
+}
+.navbar li {
+    float :left;
+    
+
+}
+.navbar a {
+    color :#E0E0E0;
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    text-align: center;
+
+
+}
+.navbar {
+position: sticky;
 }
