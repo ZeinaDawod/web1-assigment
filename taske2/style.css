@@ -6,7 +6,7 @@ header {
     top :0;
     background-color: #F0F0F0;
     padding: 10px;
-    position: sticky
+    position: fixed;
 }
 article {
 Width: 60%;
@@ -39,23 +39,21 @@ bottom: 0;
     list-style-type: none;
     background-color: rgb(12, 9, 9);
     padding: 0;
-    margin: 0;
+    margin:  0 20%;
     overflow: hidden;
     
 }
 .navbar li {
     float :left;
+    text-align: center;
     
 
 }
 .navbar a {
     color :#E0E0E0;
     display: block;
-    padding: 15px;
+    padding: 15px ;
     text-decoration: none;
-    text-align: center;
-
-
 }
 .navbar {
 position: sticky;
