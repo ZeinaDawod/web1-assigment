@@ -7,6 +7,7 @@ header {
     background-color: #F0F0F0;
     padding: 10px;
     position: fixed;
+
 }
 article {
 Width: 60%;
@@ -56,5 +57,7 @@ bottom: 0;
     text-decoration: none;
 }
 .navbar {
+    top: 0;
 position: sticky;
+z-index: 1200;
 }
